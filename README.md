@@ -68,3 +68,21 @@ Now open [http://localhost:8888](http://localhost:8888) with a token from contai
 * Jupiter Widgets gallery: [https://jupyter.org/widgets](https://jupyter.org/widgets).
 
 * Jupyter Notebooks gallery: [https://nbviewer.jupyter.org](https://nbviewer.jupyter.org).
+
+---
+
+# Computer & Data Science
+
+## General
+
+* Greedy algorithms: [https://en.wikipedia.org/wiki/Greedy_algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm)
+
+* Dynamic programming: [https://en.wikipedia.org/wiki/Dynamic_programming](https://en.wikipedia.org/wiki/Dynamic_programming)
+
+## Classification & Regression
+
+* K-nearest neighbors: [https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+
+* Naive Bayes: [https://en.wikipedia.org/wiki/Naive_Bayes_classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+
+* Decision tree: [https://en.wikipedia.org/wiki/Decision_tree](https://en.wikipedia.org/wiki/Decision_tree)
