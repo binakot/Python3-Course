@@ -21,7 +21,41 @@ Now open [http://localhost:8888](http://localhost:8888) with a token from contai
 
 ---
 
-# Useful
+# Useful links
+
+## Python
+
+* Python language: [https://www.python.org](https://www.python.org).
+
+* Python Package Index (PyPI): [https://pypi.org](https://pypi.org).
+
+* Package installer for Python (PIP): [https://pypi.org/project/pip](https://pypi.org/project/pip).
+
+* Python Virtual Environment (VENV): [https://virtualenv.pypa.io/en/latest](https://virtualenv.pypa.io/en/latest).
+
+## Development
+
+* Python type hints: [https://docs.python.org/3/library/typing.html](https://docs.python.org/3/library/typing.html).
+
+* Python data classes: [https://docs.python.org/3/library/dataclasses.html](https://docs.python.org/3/library/dataclasses.html).
+
+* Functions creating iterators for efficient looping: [https://docs.python.org/3/library/itertools.html](https://docs.python.org/3/library/itertools.html).
+
+## Tests & Lints
+
+* Unit testing framework: [https://docs.python.org/3/library/unittest.html](https://docs.python.org/3/library/unittest.html).
+
+* Test interactive Python examples: [https://docs.python.org/3/library/doctest.html](https://docs.python.org/3/library/doctest.html).
+
+* Python static code analysis tool: [https://www.pylint.org](https://www.pylint.org).
+
+* Python tool that glues together pep8, pyflakes, mccabe, and third-party plugins: [https://gitlab.com/pycqa/flake8](https://gitlab.com/pycqa/flake8).
+
+## Dependencies
+
+* Requests is an elegant and simple HTTP library for Python: [https://requests.readthedocs.io/en/master](https://requests.readthedocs.io/en/master).
+
+* Flask is a micro web framework written in Python: [https://flask.palletsprojects.com](https://flask.palletsprojects.com).
 
 ## Anaconda
 
