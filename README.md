@@ -79,7 +79,19 @@ Now open [http://localhost:8888](http://localhost:8888) with a token from contai
 
 #### Libraries
 
-* Numerical computing with Python: [https://numpy.org](https://numpy.org).
+* Python-based ecosystem of open-source software for mathematics, science, and engineering: [https://www.scipy.org](https://www.scipy.org).
+
+* N-dimensional array computing: [https://numpy.org](https://numpy.org).
+
+* Numerical routines: [https://www.scipy.org/scipylib/index.html](https://www.scipy.org/scipylib/index.html).
+
+* Comprehensive 2-D plotting: [https://matplotlib.org/stable/index.html](https://matplotlib.org/stable/index.html).
+
+* Enhanced interactive console: [http://ipython.org](http://ipython.org).
+
+* Symbolic mathematics: [https://www.sympy.org/en/index.html](https://www.sympy.org/en/index.html).
+
+* Data structures & analysis: [https://pandas.pydata.org](https://pandas.pydata.org).
 
 #### Anaconda
 
