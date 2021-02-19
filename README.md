@@ -33,7 +33,7 @@ Now open [http://localhost:8888](http://localhost:8888) with a token from contai
 
 * Python Virtual Environment (VENV): [https://virtualenv.pypa.io/en/latest](https://virtualenv.pypa.io/en/latest).
 
-## Development
+### Development
 
 * Python type hints: [https://docs.python.org/3/library/typing.html](https://docs.python.org/3/library/typing.html).
 
@@ -41,7 +41,7 @@ Now open [http://localhost:8888](http://localhost:8888) with a token from contai
 
 * Functions creating iterators for efficient looping: [https://docs.python.org/3/library/itertools.html](https://docs.python.org/3/library/itertools.html).
 
-## Tests & Lints
+### Tests & Lints
 
 * Unit testing framework: [https://docs.python.org/3/library/unittest.html](https://docs.python.org/3/library/unittest.html).
 
@@ -51,38 +51,44 @@ Now open [http://localhost:8888](http://localhost:8888) with a token from contai
 
 * Python tool that glues together pep8, pyflakes, mccabe, and third-party plugins: [https://gitlab.com/pycqa/flake8](https://gitlab.com/pycqa/flake8).
 
-## Dependencies
+### Dependencies
 
 * Requests is an elegant and simple HTTP library for Python: [https://requests.readthedocs.io/en/master](https://requests.readthedocs.io/en/master).
 
 * Flask is a micro web framework written in Python: [https://flask.palletsprojects.com](https://flask.palletsprojects.com).
 
-## Anaconda
+---
+
+## Computer & Data Science
+
+### Common
+
+* Greedy algorithms: [https://en.wikipedia.org/wiki/Greedy_algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm).
+
+* Dynamic programming: [https://en.wikipedia.org/wiki/Dynamic_programming](https://en.wikipedia.org/wiki/Dynamic_programming).
+
+### Classification & Regression
+
+* K-nearest neighbors: [https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm).
+
+* Naive Bayes: [https://en.wikipedia.org/wiki/Naive_Bayes_classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier).
+
+* Decision tree: [https://en.wikipedia.org/wiki/Decision_tree](https://en.wikipedia.org/wiki/Decision_tree).
+
+### Python
+
+#### Libraries
+
+* Numerical computing with Python: [https://numpy.org](https://numpy.org).
+
+#### Anaconda
 
 * Open source projects provided by Anaconda: [https://www.anaconda.com/open-source](https://www.anaconda.com/open-source).
 
 * Anaconda blog: [https://www.anaconda.com/blog](https://www.anaconda.com/blog).
 
-## Jupiter
+#### Jupiter
 
 * Jupiter Widgets gallery: [https://jupyter.org/widgets](https://jupyter.org/widgets).
 
 * Jupyter Notebooks gallery: [https://nbviewer.jupyter.org](https://nbviewer.jupyter.org).
-
----
-
-# Computer & Data Science
-
-## General
-
-* Greedy algorithms: [https://en.wikipedia.org/wiki/Greedy_algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm)
-
-* Dynamic programming: [https://en.wikipedia.org/wiki/Dynamic_programming](https://en.wikipedia.org/wiki/Dynamic_programming)
-
-## Classification & Regression
-
-* K-nearest neighbors: [https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
-
-* Naive Bayes: [https://en.wikipedia.org/wiki/Naive_Bayes_classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
-
-* Decision tree: [https://en.wikipedia.org/wiki/Decision_tree](https://en.wikipedia.org/wiki/Decision_tree)
