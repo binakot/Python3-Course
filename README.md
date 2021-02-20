@@ -25,37 +25,50 @@ Now open [http://localhost:8888](http://localhost:8888) with a token from contai
 
 ## Python
 
-* Python language: [https://www.python.org](https://www.python.org).
+* Python language: 
+  [https://www.python.org](https://www.python.org).
 
-* Python Package Index (PyPI): [https://pypi.org](https://pypi.org).
+* Python Package Index (PyPI):
+  [https://pypi.org](https://pypi.org).
 
-* Package installer for Python (PIP): [https://pypi.org/project/pip](https://pypi.org/project/pip).
+* Package installer for Python (PIP): 
+  [https://pypi.org/project/pip](https://pypi.org/project/pip).
 
-* Python Virtual Environment (VENV): [https://virtualenv.pypa.io/en/latest](https://virtualenv.pypa.io/en/latest).
+* Python Virtual Environment (VENV): 
+  [https://virtualenv.pypa.io/en/latest](https://virtualenv.pypa.io/en/latest).
 
 ### Development
 
-* Python type hints: [https://docs.python.org/3/library/typing.html](https://docs.python.org/3/library/typing.html).
+* Python type hints: 
+  [https://docs.python.org/3/library/typing.html](https://docs.python.org/3/library/typing.html).
 
-* Python data classes: [https://docs.python.org/3/library/dataclasses.html](https://docs.python.org/3/library/dataclasses.html).
+* Python data classes:
+  [https://docs.python.org/3/library/dataclasses.html](https://docs.python.org/3/library/dataclasses.html).
 
-* Functions creating iterators for efficient looping: [https://docs.python.org/3/library/itertools.html](https://docs.python.org/3/library/itertools.html).
+* Functions creating iterators for efficient looping: 
+  [https://docs.python.org/3/library/itertools.html](https://docs.python.org/3/library/itertools.html).
 
 ### Tests & Lints
 
-* Unit testing framework: [https://docs.python.org/3/library/unittest.html](https://docs.python.org/3/library/unittest.html).
+* Unit testing framework: 
+  [https://docs.python.org/3/library/unittest.html](https://docs.python.org/3/library/unittest.html).
 
-* Test interactive Python examples: [https://docs.python.org/3/library/doctest.html](https://docs.python.org/3/library/doctest.html).
+* Test interactive Python examples: 
+  [https://docs.python.org/3/library/doctest.html](https://docs.python.org/3/library/doctest.html).
 
-* Python static code analysis tool: [https://www.pylint.org](https://www.pylint.org).
+* Python static code analysis tool:
+  [https://www.pylint.org](https://www.pylint.org).
 
-* Python tool that glues together pep8, pyflakes, mccabe, and third-party plugins: [https://gitlab.com/pycqa/flake8](https://gitlab.com/pycqa/flake8).
+* Python tool that glues together pep8, pyflakes, mccabe, and third-party plugins: 
+  [https://gitlab.com/pycqa/flake8](https://gitlab.com/pycqa/flake8).
 
 ### Dependencies
 
-* Requests is an elegant and simple HTTP library for Python: [https://requests.readthedocs.io/en/master](https://requests.readthedocs.io/en/master).
+* Requests is an elegant and simple HTTP library for Python:
+  [https://requests.readthedocs.io](https://requests.readthedocs.io).
 
-* Flask is a micro web framework written in Python: [https://flask.palletsprojects.com](https://flask.palletsprojects.com).
+* Flask is a micro web framework written in Python: 
+  [https://flask.palletsprojects.com](https://flask.palletsprojects.com).
 
 ---
 
@@ -63,44 +76,66 @@ Now open [http://localhost:8888](http://localhost:8888) with a token from contai
 
 ### Common
 
-* Greedy algorithms: [https://en.wikipedia.org/wiki/Greedy_algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm).
+* Greedy algorithms: 
+  [https://en.wikipedia.org/wiki/Greedy_algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm).
 
-* Dynamic programming: [https://en.wikipedia.org/wiki/Dynamic_programming](https://en.wikipedia.org/wiki/Dynamic_programming).
+* Dynamic programming: 
+  [https://en.wikipedia.org/wiki/Dynamic_programming](https://en.wikipedia.org/wiki/Dynamic_programming).
 
 ### Classification & Regression
 
-* K-nearest neighbors: [https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm).
+* K-nearest neighbors: 
+  [https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm).
 
-* Naive Bayes: [https://en.wikipedia.org/wiki/Naive_Bayes_classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier).
+* Naive Bayes: 
+  [https://en.wikipedia.org/wiki/Naive_Bayes_classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier).
 
-* Decision tree: [https://en.wikipedia.org/wiki/Decision_tree](https://en.wikipedia.org/wiki/Decision_tree).
+* Decision tree: 
+  [https://en.wikipedia.org/wiki/Decision_tree](https://en.wikipedia.org/wiki/Decision_tree).
 
 ### Python
 
 #### Libraries
 
-* Python-based ecosystem of open-source software for mathematics, science, and engineering: [https://www.scipy.org](https://www.scipy.org).
+* Python-based ecosystem of open-source software for mathematics, science, and engineering: 
+  [https://www.scipy.org](https://www.scipy.org).
 
-* N-dimensional array computing: [https://numpy.org](https://numpy.org).
+* Enhanced interactive interpreter:
+  [http://ipython.org](http://ipython.org).
 
-* Data structures & analysis: [https://pandas.pydata.org](https://pandas.pydata.org).
+* Multidimensional arrays and matrices computing: 
+  [https://numpy.org](https://numpy.org).
 
-* Comprehensive 2-D plotting: [https://matplotlib.org/stable/index.html](https://matplotlib.org/stable/index.html).
+* Collection of algorithms and high-level commands for manipulating and visualizing data (builds on NumPy): 
+  [https://www.scipy.org/scipylib](https://www.scipy.org/scipylib).
 
-* Numerical routines: [https://www.scipy.org/scipylib/index.html](https://www.scipy.org/scipylib/index.html).
+* Data structures and tools for data analysis: 
+  [https://pandas.pydata.org](https://pandas.pydata.org).
 
-* Enhanced interactive console: [http://ipython.org](http://ipython.org).
+* 2D plots and graphs: 
+  [https://matplotlib.org](https://matplotlib.org).
 
-* Symbolic mathematics: [https://www.sympy.org/en/index.html](https://www.sympy.org/en/index.html).
+* Data visualization library (builds on matplotlib): 
+  [https://seaborn.pydata.org](https://seaborn.pydata.org).
+
+* Symbolic mathematics: 
+  [https://www.sympy.org/en/index.html](https://www.sympy.org/en/index.html).
+
+* Set of algorithms for machine learning and data mining tasks (builds on NumPy and SciPy): 
+  [https://scikit-learn.org](https://scikit-learn.org).
 
 #### Anaconda
 
-* Open source projects provided by Anaconda: [https://www.anaconda.com/open-source](https://www.anaconda.com/open-source).
+* Open source projects provided by Anaconda: 
+  [https://www.anaconda.com/open-source](https://www.anaconda.com/open-source).
 
-* Anaconda blog: [https://www.anaconda.com/blog](https://www.anaconda.com/blog).
+* Anaconda blog: 
+  [https://www.anaconda.com/blog](https://www.anaconda.com/blog).
 
 #### Jupiter
 
-* Jupiter Widgets gallery: [https://jupyter.org/widgets](https://jupyter.org/widgets).
+* Jupiter Widgets gallery: 
+  [https://jupyter.org/widgets](https://jupyter.org/widgets).
 
-* Jupyter Notebooks gallery: [https://nbviewer.jupyter.org](https://nbviewer.jupyter.org).
+* Jupyter Notebooks gallery: 
+  [https://nbviewer.jupyter.org](https://nbviewer.jupyter.org).
