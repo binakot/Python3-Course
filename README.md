@@ -83,15 +83,15 @@ Now open [http://localhost:8888](http://localhost:8888) with a token from contai
 
 * N-dimensional array computing: [https://numpy.org](https://numpy.org).
 
-* Numerical routines: [https://www.scipy.org/scipylib/index.html](https://www.scipy.org/scipylib/index.html).
+* Data structures & analysis: [https://pandas.pydata.org](https://pandas.pydata.org).
 
 * Comprehensive 2-D plotting: [https://matplotlib.org/stable/index.html](https://matplotlib.org/stable/index.html).
+
+* Numerical routines: [https://www.scipy.org/scipylib/index.html](https://www.scipy.org/scipylib/index.html).
 
 * Enhanced interactive console: [http://ipython.org](http://ipython.org).
 
 * Symbolic mathematics: [https://www.sympy.org/en/index.html](https://www.sympy.org/en/index.html).
-
-* Data structures & analysis: [https://pandas.pydata.org](https://pandas.pydata.org).
 
 #### Anaconda
 
