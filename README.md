@@ -82,6 +82,9 @@ Now open [http://localhost:8888](http://localhost:8888) with a token from contai
 * Dynamic programming: 
   [https://en.wikipedia.org/wiki/Dynamic_programming](https://en.wikipedia.org/wiki/Dynamic_programming).
 
+* Machine Learning for Everyone:
+  [https://vas3k.com/blog/machine_learning](https://vas3k.com/blog/machine_learning).
+
 ### Classification & Regression
 
 * K-nearest neighbors: 
@@ -118,11 +121,11 @@ Now open [http://localhost:8888](http://localhost:8888) with a token from contai
 * Data visualization library (builds on matplotlib): 
   [https://seaborn.pydata.org](https://seaborn.pydata.org).
 
-* Symbolic mathematics: 
-  [https://www.sympy.org/en/index.html](https://www.sympy.org/en/index.html).
-
 * Set of algorithms for machine learning and data mining tasks (builds on NumPy and SciPy): 
   [https://scikit-learn.org](https://scikit-learn.org).
+
+* Symbolic mathematics: 
+  [https://www.sympy.org/en/index.html](https://www.sympy.org/en/index.html).
 
 #### Anaconda
 
