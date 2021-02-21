@@ -31,7 +31,7 @@ Now open [http://localhost:8888](http://localhost:8888) with a token from contai
 * Python Package Index (PyPI):
   [https://pypi.org](https://pypi.org).
 
-* Package installer for Python (PIP): 
+* Package Installer for Python (PIP): 
   [https://pypi.org/project/pip](https://pypi.org/project/pip).
 
 * Python Virtual Environment (VENV): 
@@ -39,10 +39,10 @@ Now open [http://localhost:8888](http://localhost:8888) with a token from contai
 
 ### Development
 
-* Python type hints: 
+* Type hints: 
   [https://docs.python.org/3/library/typing.html](https://docs.python.org/3/library/typing.html).
 
-* Python data classes:
+* Data classes:
   [https://docs.python.org/3/library/dataclasses.html](https://docs.python.org/3/library/dataclasses.html).
 
 * Functions creating iterators for efficient looping: 
@@ -53,21 +53,21 @@ Now open [http://localhost:8888](http://localhost:8888) with a token from contai
 * Unit testing framework: 
   [https://docs.python.org/3/library/unittest.html](https://docs.python.org/3/library/unittest.html).
 
-* Test interactive Python examples: 
+* Interactive documentation tests: 
   [https://docs.python.org/3/library/doctest.html](https://docs.python.org/3/library/doctest.html).
 
-* Python static code analysis tool:
+* Static code analysis tool:
   [https://www.pylint.org](https://www.pylint.org).
 
-* Python tool that glues together pep8, pyflakes, mccabe, and third-party plugins: 
+* Tool that glues together pep8, pyflakes, mccabe, and third-party plugins: 
   [https://gitlab.com/pycqa/flake8](https://gitlab.com/pycqa/flake8).
 
 ### Dependencies
 
-* Requests is an elegant and simple HTTP library for Python:
+* The elegant and simple HTTP library:
   [https://requests.readthedocs.io](https://requests.readthedocs.io).
 
-* Flask is a micro web framework written in Python: 
+* Micro web framework: 
   [https://flask.palletsprojects.com](https://flask.palletsprojects.com).
 
 ---
@@ -82,19 +82,14 @@ Now open [http://localhost:8888](http://localhost:8888) with a token from contai
 * Dynamic programming: 
   [https://en.wikipedia.org/wiki/Dynamic_programming](https://en.wikipedia.org/wiki/Dynamic_programming).
 
-* Machine Learning for Everyone:
+* Machine Learning for everyone:
   [https://vas3k.com/blog/machine_learning](https://vas3k.com/blog/machine_learning).
 
-### Classification & Regression
+* Machine Learning for humans:
+  [https://medium.com/machine-learning-for-humans](https://medium.com/machine-learning-for-humans).
 
-* K-nearest neighbors: 
-  [https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm).
-
-* Naive Bayes: 
-  [https://en.wikipedia.org/wiki/Naive_Bayes_classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier).
-
-* Decision tree: 
-  [https://en.wikipedia.org/wiki/Decision_tree](https://en.wikipedia.org/wiki/Decision_tree).
+* The neural network zoo:
+  [https://www.asimovinstitute.org/neural-network-zoo](https://www.asimovinstitute.org/neural-network-zoo).
 
 ### Python
 
