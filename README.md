@@ -155,7 +155,10 @@ Now open [http://localhost:8888](http://localhost:8888) with a token from contai
 
 * Jupyter Notebooks gallery: 
   [https://nbviewer.jupyter.org](https://nbviewer.jupyter.org).
-  
+
+* Data science Jupyter notebooks:
+  [https://github.com/donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks).
+
 ---
 
 ### Others
