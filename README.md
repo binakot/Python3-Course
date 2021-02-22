@@ -107,7 +107,7 @@ Now open [http://localhost:8888](http://localhost:8888) with a token from contai
 * Collection of algorithms and high-level commands for manipulating and visualizing data (builds on NumPy): 
   [https://www.scipy.org/scipylib](https://www.scipy.org/scipylib).
 
-* Data structures and tools for data analysis: 
+* Data structures and tools for data analysis (builds on NumPy): 
   [https://pandas.pydata.org](https://pandas.pydata.org).
 
 * 2D plots and graphs: 
@@ -116,11 +116,29 @@ Now open [http://localhost:8888](http://localhost:8888) with a token from contai
 * Data visualization library (builds on matplotlib): 
   [https://seaborn.pydata.org](https://seaborn.pydata.org).
 
+* Graphing library makes interactive, publication-quality graphs with 3D:
+  [https://plotly.com/python](https://plotly.com/python).
+
+* Interactive visualization library for modern web browsers:
+  [https://docs.bokeh.org](https://docs.bokeh.org).
+
+* Working with geospatial data (extends the datatypes used by pandas):
+  [https://geopandas.readthedocs.io](https://geopandas.readthedocs.io).
+
 * Set of algorithms for machine learning and data mining tasks (builds on NumPy and SciPy): 
   [https://scikit-learn.org](https://scikit-learn.org).
 
+* Deep learning framework:
+  [https://keras.io](https://keras.io).
+
+* Classes and functions for the estimation of statistical models, as well as for conducting statistical tests, and statistical data exploration ((builds on NumPy & SciPy):
+  [https://www.statsmodels.org](https://www.statsmodels.org).
+
 * Symbolic mathematics: 
   [https://www.sympy.org/en/index.html](https://www.sympy.org/en/index.html).
+
+* Flexible library for parallel computing (integrated with NumPy, pandas, and scikit-learn):
+  [https://dask.org](https://dask.org).
 
 #### Anaconda
 
@@ -137,3 +155,10 @@ Now open [http://localhost:8888](http://localhost:8888) with a token from contai
 
 * Jupyter Notebooks gallery: 
   [https://nbviewer.jupyter.org](https://nbviewer.jupyter.org).
+  
+---
+
+### Others
+
+* Platform for machine learning:
+  [https://www.tensorflow.org](https://www.tensorflow.org).
